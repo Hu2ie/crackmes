@@ -11,6 +11,14 @@ input field, and a status bar. Your job: make it show the
 
 ---
 
+## Screenshots
+
+![preview](screenshots/preview.png)
+
+*The application window: lock icon, input field, and status bar.*
+
+---
+
 ## Structure
 
     crackmes/
